@@ -4,7 +4,7 @@ ans2 = input("\033[1;35;40mPick a number\n1.print\n2.print\n")
 if ans2 == '1':
     print("\033[1;36;40mHacking Facebook database please wait....")
 if ans2 == '2':
-print("\033[1;36;40mHacking FBI database please wait....")
+    print("\033[1;36;40mHacking FBI database please wait....")
 
 print("\033[1;33;40mCompleted")
 
